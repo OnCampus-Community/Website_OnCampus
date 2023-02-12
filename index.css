@@ -842,23 +842,23 @@ body {
 	margin: 0;
 	font-size: 24px;
 }
-.trusted-by-companies-container {
+/* .trusted-by-companies-container {
 	color: #000;
 	position: relative;
 	line-height: 150%;
 	z-index: 0;
-}
-.airbnb-icon,
+} */
+/* .airbnb-icon,
 .nasa-icon {
 	position: relative;
 	width: 74px;
 	height: 74px;
 	flex-shrink: 0;
-}
-.nasa-icon {
+} */
+/* .nasa-icon {
 	overflow: hidden;
-}
-.logos {
+} */
+/* .logos {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
@@ -866,29 +866,29 @@ body {
 	justify-content: center;
 	gap: 82px;
 	z-index: 1;
-}
-.line-icon,
+} */
+/* .line-icon,
 .vector-icon8 {
 	position: absolute;
 	margin: 0 !important;
 	flex-shrink: 0;
 	display: none;
-}
-.vector-icon8 {
+} */
+/* .vector-icon8 {
 	top: 42.7px;
 	left: 436.7px;
 	width: 67.42px;
 	height: 65.78px;
 	z-index: 2;
-}
-.line-icon {
+} */
+/* .line-icon {
 	top: 155px;
 	left: 789px;
 	width: 162px;
 	height: 12px;
 	z-index: 3;
-}
-.companies {
+} */
+/* .companies {
 	width: 100%;
 	display: flex;
 	flex-direction: column;
@@ -900,7 +900,7 @@ body {
 	text-align: center;
 	font-size: 34px;
 	color: #000;
-}
+} */
 .channel-animation-child {
 	position: absolute;
 	width: calc(100% - 3.95px);
