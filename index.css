@@ -110,7 +110,10 @@ body {
 	width: 100%;
 	height: calc(100vh - 72px);
 	position: relative;
-	background-color: #ffc700;
+	background: url("public/rightSide.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 	overflow: hidden;
 	font-size: 13.31px;
 	color: #000;
