@@ -56,7 +56,7 @@ body {
 	text-shadow: 1px 1px 0#000, 1px 1px 0#000;
 	-webkit-text-stroke: 2px #000;
 }
-/* .menu {
+.menu {
 	align-self: stretch;
 	flex: 1;
 	display: flex;
@@ -66,7 +66,7 @@ body {
 	align-items: center;
 	justify-content: flex-start;
 	gap: 12px;
-} */
+}
 
 .login {
 	align-self: stretch;
